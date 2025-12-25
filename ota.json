@@ -1,0 +1,22 @@
+{
+  "rom": "BrenoOS",
+  "device": "a21s",
+  "model": "SM-A217M",
+  "android": "12",
+  "oneui": "4.1",
+  "version": "1.0",
+  "build_date": "2025-12-25",
+  "type": "app-only",
+  "changelog": [
+    "Adicionado novo app de sistema",
+    "OTA fake BrenoOS",
+    "Atualização via script",
+    "Teste de servidor OTA"
+  ],
+  "package": {
+    "filename": "update.zip",
+    "size": 3920000,
+    "sha256": "51b96b7b9c8886acdef2bf03358836a87c57f83a5c8ecae646f278270d77260a",
+    "url": "https://mega.nz/file/n9YmGRKS#1BXKWhv2WN1Ja9DMUQYmLm4is5klei_CXVRKfao2uv4"
+  }
+}
