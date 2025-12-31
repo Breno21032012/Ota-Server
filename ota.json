@@ -1,13 +1,7 @@
 {
-  "rom": "BrenoOS",
-  "version": "1.0",
-  "build_date": "2025-12-25",
-  "changelog": [
-    "Primeira atualização OTA da BrenoOS",
-    "Adicionado app via update.zip"
-  ],
-  "update": {
-    "url": "https://mega.nz/file/n9YmGRKS#1BXKWhv2WN1Ja9DMUQYmLm4is5klei_CXVRKfao2uv4",
-    "size": "3.74 MB"
-  }
+  "version": "2.0",
+  "codename": "BrenoOS",
+  "android": "11",
+  "url": "https://github.com/Breno21032012/Ota-Server/releases/download/BrenoOs/update.zip",
+  "sha256": "sha256:77914c59cd236ea8e959bfe9bc55c780f214a74080eab5e32fff2affd564e067"
 }
